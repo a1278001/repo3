@@ -5,3 +5,9 @@ C:\Users\iii\Desktop\Ren\C#\上課專案\ConsoleApp6\ConsoleApp6\obj\Debug\Conso
 C:\Users\iii\Desktop\Ren\C#\上課專案\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
 C:\Users\iii\Desktop\Ren\C#\上課專案\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
 C:\Users\iii\Desktop\Ren\C#\上課專案\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\user\repo3\Ren\C#\上課專案\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\user\repo3\Ren\C#\上課專案\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\user\repo3\Ren\C#\上課專案\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\user\repo3\Ren\C#\上課專案\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\user\repo3\Ren\C#\上課專案\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\user\repo3\Ren\C#\上課專案\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

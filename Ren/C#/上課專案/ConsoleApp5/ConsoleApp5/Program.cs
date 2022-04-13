@@ -211,7 +211,7 @@ namespace ConsoleApp5
 
             for (int i = 1; i <= f/2; i += 1)
             {
-                for (int k = 1; k <= 5 - i; k += 1)
+                for (int k = 1; k <= f/2 - i; k += 1)
                 {
                     Console.Write(" ");
                 }
@@ -223,20 +223,41 @@ namespace ConsoleApp5
 
                 Console.WriteLine();
             }
-            for (int i = 1; i <= f/2+1; i += 1)
+            if (f % 2 == 0)
             {
-                for (int k = 1; k <= i; k += 1)
+                for (int i = 1; i <= f / 2; i += 1)
                 {
-                    Console.Write(" ");
-                }
+                    for (int k = 1; k <= i; k += 1)
+                    {
+                        Console.Write(" ");
+                    }
 
-                for (int j = 1; j <= 9 - 2 * i; j += 1)
-                {
-                    Console.Write("*");
-                }
+                    for (int j = 1; j <= f - 1 - 2 * i; j += 1)
+                    {
+                        Console.Write("*");
+                    }
 
-                Console.WriteLine();
+                    Console.WriteLine();
+                }
             }
+            else
+            {
+                for (int i = 1; i <= f / 2; i += 1)
+                {
+                    for (int k = 1; k <= i; k += 1)
+                    {
+                        Console.Write(" ");
+                    }
+
+                    for (int j = 1; j <= f - 2 - 2 * i; j += 1)
+                    {
+                        Console.Write("*");
+                    }
+
+                    Console.WriteLine();
+                }
+            }
+
 
 
 
@@ -244,9 +265,14 @@ namespace ConsoleApp5
             Console.WriteLine("-------------------------------------");
             // 課程作業加分題: 請輸出 聖誕樹 彩色 有裝飾 (可以任意輸入聖誕樹的高度 H)
             Console.WriteLine("聖誕樹\n");
-            for (int i = 1; i <= 5; i += 1)
+            Console.Write("請輸入聖誕樹總高度:");
+            string x = Console.ReadLine();
+            int y = Convert.ToInt32(x);
+            int z = y / 5;
+            y += 2 * z;
+            for (int i = 1; i <= y / 4; i += 1)
             {
-                for (int k = 1; k <= 5 - i; k += 1)
+                for (int k = 1; k <= y / 4 - i; k += 1)
                 {
                     Console.Write(" ");
                 }
@@ -256,7 +282,7 @@ namespace ConsoleApp5
                     if (j % 2 == 0)
                     {
                         Console.ForegroundColor = ConsoleColor.DarkBlue;
-                        Console.Write("%");
+                        Console.Write("*");
                     }
                     else
                     {
@@ -267,9 +293,9 @@ namespace ConsoleApp5
 
                 Console.WriteLine();
             }
-            for (int i = 3; i <= 5; i += 1)
+            for (int i = z; i <= y / 4; i += 1)
             {
-                for (int k = 1; k <= 5 - i; k += 1)
+                for (int k = 1; k <= y / 4 - i; k += 1)
                 {
                     Console.Write(" ");
                 }
@@ -279,7 +305,7 @@ namespace ConsoleApp5
                     if (j % 2 == 0)
                     {
                         Console.ForegroundColor = ConsoleColor.DarkRed;
-                        Console.Write("&");
+                        Console.Write("*");
                     }
                     else
                     {
@@ -290,9 +316,9 @@ namespace ConsoleApp5
 
                 Console.WriteLine();
             }
-            for (int i = 3; i <= 5; i += 1)
+            for (int i = z; i <= y / 4; i += 1)
             {
-                for (int k = 1; k <= 5 - i; k += 1)
+                for (int k = 1; k <= y / 4 - i; k += 1)
                 {
                     Console.Write(" ");
                 }
@@ -301,8 +327,8 @@ namespace ConsoleApp5
                 {
                     if (j % 2 == 0)
                     {
-                        Console.ForegroundColor = ConsoleColor.DarkYellow;
-                        Console.Write("#");
+                        Console.ForegroundColor = ConsoleColor.DarkCyan;
+                        Console.Write("*");
                     }
                     else
                     {
@@ -313,17 +339,17 @@ namespace ConsoleApp5
 
                 Console.WriteLine();
             }
-            for (int i = 3; i <= 5; i += 1)
+            for (int i = 1; i <= y / 4; i += 1)
             {
-                for (int k = 1; k <= 3; k += 1)
+                for (int k = 1; k <= y / 8; k += 1)
                 {
                     Console.Write(" ");
                 }
 
-                for (int j = 1; j <= 3; j += 1)
+                for (int j = 1; j <= y / 4; j += 1)
                 {
                     Console.ForegroundColor = ConsoleColor.White;
-                    Console.Write("*");                  
+                    Console.Write("*");
                 }
 
                 Console.WriteLine();

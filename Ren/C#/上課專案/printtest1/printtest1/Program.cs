@@ -15,7 +15,8 @@ namespace printtest1
             Console.Write("請輸入聖誕樹總高度:");
             string x = Console.ReadLine();
             int y = Convert.ToInt32(x);
-
+            int z = y/5;
+            y += 2*z;
             for (int i = 1; i <= y/4; i += 1)
             {
                 for (int k = 1; k <= y/4 - i; k += 1)
@@ -39,7 +40,7 @@ namespace printtest1
 
                 Console.WriteLine();
             }
-            for (int i = 3; i <= y/4; i += 1)
+            for (int i = z;i <= y/4; i += 1)
             {
                 for (int k = 1; k <= y/4 - i; k += 1)
                 {
@@ -62,7 +63,7 @@ namespace printtest1
 
                 Console.WriteLine();
             }
-            for (int i = 3; i <= y/4; i += 1)
+            for (int i = z; i <= y/4; i += 1)
             {
                 for (int k = 1; k <= y/4 - i; k += 1)
                 {
@@ -85,7 +86,7 @@ namespace printtest1
 
                 Console.WriteLine();
             }
-            for (int i = 3; i <= y/4; i += 1)
+            for (int i = 1; i <= y/4; i += 1)
             {
                 for (int k = 1; k <= y/8; k += 1)
                 {
