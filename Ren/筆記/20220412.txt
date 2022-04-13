@@ -1,0 +1,42 @@
+http://www.pinju.in/git/
+Git -> 本機 、 Github -> 雲端
+
+Git:
+
+git clone -> SSH下載 (整個專案)
+git pull -> SSH下載 (改動過的)
+
+ls -> 目前目錄所有檔案資料夾
+
+ls -a -> 包含隱藏檔案資料夾
+
+pwd -> 目前目錄
+
+cd 資料夾名稱/ -> 移動目錄
+
+echo -> 回應回聲內容
+
+echo 333 > f1 覆蓋
+
+echo 333 >> f1 附加
+
+mv -> 移動或更改名稱
+
+mkdir 名稱 -> 建立資料夾 
+
+mv d2 dd2 -> d2更名為dd2
+
+rm -fr -> 刪除
+
+vi 檔案 -> 進入編輯
+
+git add 檔案 -> 建進Staging Area
+git add . -> 整個目錄建入
+
+git commit -m "字串" -> 建立新版本
+
+git push origin b1:b1 -> 分支上傳至雲端
+
+ctrl + c 中斷
+
+

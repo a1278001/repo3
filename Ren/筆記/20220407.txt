@@ -1,0 +1,53 @@
+個人專題 -> 視窗應用程式 5月底
+結業專題 -> 網頁應用程式 8月23日
+
+主控台應用程式
+Unix -> Terminal app
+Windows -> Console
+Unix base -> 伺服器 80%up
+
+視窗應用程式
+微軟 MAUI -> 新架構，跨平台
+
+Java -> 函式庫收費 (Open JDK免費)
+.NET Framework -> 微軟免費函式庫
+XNA、UNReal5.0(c++)、Unity3D(c#) -> 遊戲函式庫
+Api (Application Interface) -> 呼叫函式庫
+Web Api -> 在web上開放呼叫函式庫
+
+c++ -> Java -> c#
+
+,NET新函式庫
+DotNet Core
+DotNet 5.0 -> .NET 6.0 
+
+*** 安裝 Visual Studio Community 2019、SQL Server 2019 Developer(先裝) ***
+電腦規格:
+1、intel i5 up
+2、ram 8g up
+3、ssd 256g up
+
+*** 通用密碼 dotnet ***
+
+上課名詞:
+1、{大括號}
+2、[中括號]
+3、(小括號)
+4、<角括號>
+5、; 分號
+6、_ 底線
+
+語法:
+
+System.Console.WriteLine("Hello World");
+空間   類別    函式
+System.Console.ReadLine();
+等待使用者輸入一行(enter) (一定要在最後一行)
+
+// 單行註解
+
+/* 多
+*  行
+*  註
+*/ 解
+

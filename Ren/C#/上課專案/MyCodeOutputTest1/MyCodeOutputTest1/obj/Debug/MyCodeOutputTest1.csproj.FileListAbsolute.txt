@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Ren\C#\上課專案\MyCodeOutputTest1\MyCodeOutputTest1\obj\Debug\MyCodeOutputTest1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ren\C#\上課專案\MyCodeOutputTest1\MyCodeOutputTest1\obj\Debug\MyCodeOutputTest1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ren\C#\上課專案\MyCodeOutputTest1\MyCodeOutputTest1\bin\Debug\MyCodeOutputTest1.exe.config
+C:\Users\user\Desktop\Ren\C#\上課專案\MyCodeOutputTest1\MyCodeOutputTest1\bin\Debug\MyCodeOutputTest1.exe
+C:\Users\user\Desktop\Ren\C#\上課專案\MyCodeOutputTest1\MyCodeOutputTest1\bin\Debug\MyCodeOutputTest1.pdb
+C:\Users\user\Desktop\Ren\C#\上課專案\MyCodeOutputTest1\MyCodeOutputTest1\obj\Debug\MyCodeOutputTest1.exe
+C:\Users\user\Desktop\Ren\C#\上課專案\MyCodeOutputTest1\MyCodeOutputTest1\obj\Debug\MyCodeOutputTest1.pdb

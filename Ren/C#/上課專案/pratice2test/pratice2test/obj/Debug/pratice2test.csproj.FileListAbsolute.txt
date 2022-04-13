@@ -1,0 +1,2 @@
+C:\Users\iii\Desktop\Ren\C#\上課專案\pratice2test\pratice2test\obj\Debug\pratice2test.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\Ren\C#\上課專案\pratice2test\pratice2test\obj\Debug\pratice2test.csproj.CoreCompileInputs.cache

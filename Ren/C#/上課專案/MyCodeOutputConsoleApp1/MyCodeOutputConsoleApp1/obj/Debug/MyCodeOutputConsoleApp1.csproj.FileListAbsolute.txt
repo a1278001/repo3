@@ -1,0 +1,7 @@
+C:\Users\iii\Desktop\Ren\C#\上課專案\MyCodeOutputConsoleApp1\MyCodeOutputConsoleApp1\bin\Debug\MyCodeOutputConsoleApp1.exe.config
+C:\Users\iii\Desktop\Ren\C#\上課專案\MyCodeOutputConsoleApp1\MyCodeOutputConsoleApp1\bin\Debug\MyCodeOutputConsoleApp1.exe
+C:\Users\iii\Desktop\Ren\C#\上課專案\MyCodeOutputConsoleApp1\MyCodeOutputConsoleApp1\bin\Debug\MyCodeOutputConsoleApp1.pdb
+C:\Users\iii\Desktop\Ren\C#\上課專案\MyCodeOutputConsoleApp1\MyCodeOutputConsoleApp1\obj\Debug\MyCodeOutputConsoleApp1.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\Ren\C#\上課專案\MyCodeOutputConsoleApp1\MyCodeOutputConsoleApp1\obj\Debug\MyCodeOutputConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\Ren\C#\上課專案\MyCodeOutputConsoleApp1\MyCodeOutputConsoleApp1\obj\Debug\MyCodeOutputConsoleApp1.exe
+C:\Users\iii\Desktop\Ren\C#\上課專案\MyCodeOutputConsoleApp1\MyCodeOutputConsoleApp1\obj\Debug\MyCodeOutputConsoleApp1.pdb

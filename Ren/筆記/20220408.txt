@@ -1,0 +1,36 @@
+底下紅色蚯蚓號 -> 程式碼有誤
+變數第一個字元不可為數字
+變數不得重複宣告
+CPU、GPU內建浮點數運算，語言本身只有整數
+
+上課名詞:
+1、\ 反斜線 (後面特殊字元符號可輸出)
+2、/ 斜線 
+3、bits 位元 0與1
+4、bytes 位元組 8bits
+5、= Assign指定運算子
+
+容量128GB Bytes
+網速32MB Bits
+
+lab:
+輸出程式碼，包含顏色
+
+語法:
+
+Console:
+
+WriteLine 字串輸出、獨佔一行(函式)
+WriteLine() 換行
+"字串"
+'字元' 單一字
+using定義在檔頭的命名空間可省略
+ReadLine 等待輸入一行、需在最後一行 (函式)
+ForegroundColor 更改字體顏色 (屬性、白色)
+ConsoleColor 列舉 (函式)
+BackgroundColor 更改背景顏色 (屬性、白色)
+ResetColor 重置顏色 (函式)
+\t 縮排
+\n 換行
+
+
